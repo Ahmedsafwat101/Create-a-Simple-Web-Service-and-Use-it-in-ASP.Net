@@ -1,0 +1,10 @@
+C:\Users\Safwat\source\repos\UserIntrfaceCalc\UserIntrfaceCalc\bin\Debug\UserIntrfaceCalc.exe.config
+C:\Users\Safwat\source\repos\UserIntrfaceCalc\UserIntrfaceCalc\bin\Debug\UserIntrfaceCalc.exe
+C:\Users\Safwat\source\repos\UserIntrfaceCalc\UserIntrfaceCalc\bin\Debug\UserIntrfaceCalc.pdb
+C:\Users\Safwat\source\repos\UserIntrfaceCalc\UserIntrfaceCalc\obj\Debug\UserIntrfaceCalc.csprojAssemblyReference.cache
+C:\Users\Safwat\source\repos\UserIntrfaceCalc\UserIntrfaceCalc\obj\Debug\UserIntrfaceCalc.Form1.resources
+C:\Users\Safwat\source\repos\UserIntrfaceCalc\UserIntrfaceCalc\obj\Debug\UserIntrfaceCalc.Properties.Resources.resources
+C:\Users\Safwat\source\repos\UserIntrfaceCalc\UserIntrfaceCalc\obj\Debug\UserIntrfaceCalc.csproj.GenerateResource.cache
+C:\Users\Safwat\source\repos\UserIntrfaceCalc\UserIntrfaceCalc\obj\Debug\UserIntrfaceCalc.csproj.CoreCompileInputs.cache
+C:\Users\Safwat\source\repos\UserIntrfaceCalc\UserIntrfaceCalc\obj\Debug\UserIntrfaceCalc.exe
+C:\Users\Safwat\source\repos\UserIntrfaceCalc\UserIntrfaceCalc\obj\Debug\UserIntrfaceCalc.pdb
