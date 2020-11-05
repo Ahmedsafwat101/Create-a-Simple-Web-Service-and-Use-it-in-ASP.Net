@@ -6,7 +6,9 @@ Create a Simple Web Service and Use it in ASP.Net and Windows Form (Calculator)
 A Web Service is a reusable piece of code used to communicate among Heterogeneous Applications.
  
 Once a web service is created and hosted on the server in the internet it can be consumed by any kind of application developed in any technology.
- 
+
+   [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger)  
+
 # How to create a Web Service
  
 * Step 1
